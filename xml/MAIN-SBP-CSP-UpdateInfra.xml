@@ -131,6 +131,10 @@
    Server 15 SP3 or later. These systems may be registered directly to SCC or may be managed using
    SUSE Manager. All systems must have the Public Cloud Module repository enabled. </para>
 
+  <sect2 xml:id="sec-checklist">
+   <title>Checklist</title>
+  </sect2>
+
   <sect2 xml:id="sec-region-server-s">
    <title>Region Server(s)</title>
    
